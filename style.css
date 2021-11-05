@@ -53,6 +53,19 @@ a:hover {
     text-decoration: none;
 }
 
+.list-photo {
+    text-align: center;
+}
+
+.list-photo figure img {
+    width: 200px;
+}
+
+.figure {
+    margin-top: 20px;
+    padding: 30px;
+}
+
 /* General */
 
 .tombol {
@@ -98,6 +111,10 @@ a:hover {
 
     .lead {
         font-size: 20pt;
+    }
+
+    .list-photo figure img {
+        width: 300px;
     }
 
 
