@@ -55,6 +55,8 @@ a:hover {
 
 .list-photo {
     text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
 }
 
 .list-photo figure img {
@@ -64,6 +66,19 @@ a:hover {
 .figure {
     margin-top: 20px;
     padding: 30px;
+}
+
+.description {
+    background-color: #ebf0ec;
+}
+
+.main-desc {    
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+.display-5 span {
+    font-weight: 700;
 }
 
 /* General */
